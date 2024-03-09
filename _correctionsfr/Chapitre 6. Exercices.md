@@ -15,11 +15,14 @@ $x = 2L.cos(\alpha)$
 $y = 4L.sin(\alpha)$     
 
 #### 2)	En appliquant le théorème des travaux virtuels pour la configuration $AB$, établissez l’expression de l’effort $F_{AB}$ nécessaire pour soulever la plateforme en fonction de $\alpha$.
-\begin{align} 
-F_{AB} dx - mg dy&=0 \\\\\
-F_{AB}&=mg\frac{dy}{dx} \\\\\
-F_{AB} &=-\frac{2mg}{tan(\alpha)} \\\\\
-\end{align} 
+
+$F_{AB} dx - mg dy=0$
+
+$F_{AB}=mg\frac{dy}{dx}$ 
+
+$F_{AB} =-\frac{2mg}{tan(\alpha)} $
+
+
 
 #### 3)	Procédez de même pour la configuration BH. 
 
