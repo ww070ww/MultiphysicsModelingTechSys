@@ -33,10 +33,12 @@ $dx = 8L\frac{sin(\alpha)cos(\alpha)}{\sqrt{1+8sin(\alpha)^2}}d\alpha$
 $dy = 4Lcos(\alpha)d\alpha$   
 
 
-\begin{align} 
-F_{BH}&=mg\frac{dy}{dx} \\\\\
-F_{BH} &=mg\dfrac{\sqrt{1+8sin(\alpha)^2}}{2sin(\alpha)} \\\\\
-\end{align} 
+
+$F_{BH} = mg\frac{dy}{dx}$
+
+$F_{BH} = mg\dfrac{\sqrt{1+8sin(\alpha)^2}}{2sin(\alpha)}$
+
+
 
 
 #### 4) Proposez un code Modelica pour ces deux configurations de mécanisme.
